@@ -12,7 +12,7 @@ To set up and use the project on your local system, follow these steps:
 
 ### Installation Process
 1.  Clone the repository:
-    git clone https://fretbox@dev.azure.com/fretbox/PythonBox/_git/PythonBox
+    git clone https://github.com/Kuraiomo/Card-Validation/tree/main/AadharPanDriving
     cd AadharPanDriving
 2. Install required Python packages:
     Install required Python packages:
