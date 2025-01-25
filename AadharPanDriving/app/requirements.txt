@@ -1,0 +1,28 @@
+# Core libraries
+numpy
+pandas
+
+# Computer Vision
+opencv-python
+torch
+torchvision
+Pillow
+
+# Object Detection with YOLO
+ultralytics
+
+# OCR
+easyocr
+
+# Web App and API (if needed)
+flask
+flask-restful
+
+# Deployment
+gunicorn
+
+# Miscellaneous
+scikit-learn
+matplotlib
+seaborn
+requests
