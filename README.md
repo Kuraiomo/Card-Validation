@@ -38,7 +38,7 @@ Refer to the api.py file for detailed API endpoint descriptions.
 
 ### Build and Test
 Run the Flask application:
-    python run.py
+    * python run.py
 Access the application at http://127.0.0.1:5000/ in your browser.
 ### Testing
 To test the application:
@@ -50,11 +50,11 @@ To test the application:
 We welcome contributions to improve this project. Follow these steps to contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
-    git checkout -b feature/your-feature-name
+    * git checkout -b feature/your-feature-name
 3. Commit your changes:
-    git commit -m "Add feature or fix description"
+    * git commit -m "Add feature or fix description"
 Push your branch:
-    git push origin feature/your-feature-name
+    * git push origin feature/your-feature-name
 Submit a pull request.
 
 
